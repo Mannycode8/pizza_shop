@@ -6,6 +6,8 @@ import 'package:pizza_shop/model/category_card1.dart';
 
 import '../routes/app_widgets/asset_image.dart';
 
+//first comment only vor version contol puposes. can delete later
+
 List<String> categoryButtons = [
   "All Items",
   "Pizza",
