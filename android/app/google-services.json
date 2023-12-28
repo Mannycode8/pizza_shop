@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825581588011",
+    "project_id": "pizza-app-f82ce",
+    "storage_bucket": "pizza-app-f82ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825581588011:android:6b3c6e85bf79c7ce82a46e",
+        "android_client_info": {
+          "package_name": "com.example.pizza_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABjnYQYJAU4JkPavAfmhx6eKgr6572hw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
